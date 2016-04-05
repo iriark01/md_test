@@ -3,4 +3,4 @@ site_name: Code inclusion test
 docs_dir: Docs
 
 pages:
-- Testing the docs: 'index.md'
+- ['index.md', 'Testing the docs']
