@@ -3,13 +3,18 @@ Testing the docs
 
 
 ```
-#This is a standard
-#Code block
+# This is a standard
+# markdown code block
 
 from thingy import this thing
 
 thing()
 ```
+
+<pre>
+This is a standard
+html code block
+</pre>
 
 Some other markdown
 
